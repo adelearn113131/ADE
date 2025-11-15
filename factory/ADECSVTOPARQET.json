@@ -1,0 +1,9 @@
+{
+	"name": "ADECSVTOPARQET",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "162a3b63-5bc1-4c03-b246-5ec2b7e94eb1",
+		"tenantId": "3a34b749-7809-4425-b48a-ec499786bfd1"
+	}
+}
