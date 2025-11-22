@@ -1,0 +1,9 @@
+{
+	"name": "adfsqlcopy",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a64d01c0-3852-4f4d-9998-74938afb57ac",
+		"tenantId": "3a34b749-7809-4425-b48a-ec499786bfd1"
+	}
+}
